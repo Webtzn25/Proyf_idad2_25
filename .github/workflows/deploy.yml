@@ -3,7 +3,7 @@ name: Deploy Vue to GitHub Pages
 on:
   push:
     branches:
-      - v2   # 👈 cuando hagas push en main, se publica
+      - main   # 👈 cuando hagas push en main, se publica
 
 jobs:
   build:
