@@ -15,5 +15,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-    base: 'https://github.com/Webtzn25/Proyf_idad2_25.git' 
+    base: 'https://github.com/Webtzn25/Proyf_idad2_25.git/proy/' 
 })
